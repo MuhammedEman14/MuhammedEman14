@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sheraz Tariq</h1>
-<h3 align="center">Full-stack Developer & AI/ML Engineer | Enterprise CRM Specialist</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Eman</h1>
+<h3 align="center">Full-stack Developer & AI/ML Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20DevOps%20Builder;Full-stack%20Developer%20at%20SAGE%20TECK;RAG%20%7C%20LangChain%20%7C%20Blockchain%20Expert!" alt="Typing SVG" />
