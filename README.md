@@ -18,9 +18,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing **B.S. in Software Engineering** at FAST NUCES 
-- 💼 **Full Stack Developer at SAGE TECK** – Building enterprise CRM solutions
-- 🚀 **1+ year of professional experience** in Full-stack Development
+- 🎓  **B.S. in Software Engineering** at FAST NUCES 2021-2025 
+- 💼 **Full Stack Developer at SAGE TECK** – Building Voice AI Applications
+- 🚀 **2+ year of professional experience** in Full-stack Development
 - 🤖 Expert in **AI/ML, RAG, LangChain, and Blockchain Technology**
 - 🛠️ Currently building **AI-powered applications** and **scalable DevOps systems**
 - 💡 Specialized in **Enterprise CRM (SugarCRM, SuiteCRM)** and **CI/CD pipelines**
