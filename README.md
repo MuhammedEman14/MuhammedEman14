@@ -95,14 +95,14 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
       <td style="width: 49%; height: 330px;">
         <img 
           src="https://github-readme-stats.vercel.app/api?username=MuhammedEman14&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
-          alt="Sheraz's GitHub Stats" 
+          alt="Muhammad Eman's GitHub Stats" 
           style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
       </td>
       <!-- GitHub Streak -->
       <td style="width: 49%; height: 330px;">
         <img 
           src="https://github-readme-streak-stats.herokuapp.com?user=MuhammedEman14&theme=radical&hide_border=true" 
-          alt="Sheraz's GitHub Streak" 
+          alt="Muhammad Eman's GitHub Streak" 
           style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
       </td>
     </tr>
