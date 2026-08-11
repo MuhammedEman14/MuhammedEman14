@@ -120,13 +120,15 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 
 ### 💼 Professional Experience
 
-**💻 SAGE TECK - Full Stack Developer** *(March 2024 - Present)*
+**💻 SAGE TECK - Full Stack Developer** *(Nov 2025 - Present)*
 * Engineered and maintained **critical features** for enterprise CRM platforms **SugarCRM** and **SuiteCRM**
 * Ensured **robust performance** and **high system availability** for production systems
 * Focused on building **scalable backend logic** throughout the software development lifecycle
 * Modernized **deployment workflows** and improved development efficiency through **CI/CD**
 * Led **quality assurance** and **integration testing** processes
 
+  
+**💻 Brain Box Automations - Full Stack AI Developer** *(Nov 2024 - Nov 2025)*
 ---
 
 ### 🏅 Key Achievements
@@ -186,18 +188,7 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
   </table>
 </div>
 
-<!-- Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheraztariq22&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheraztariq22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  &nbsp;•&nbsp;
-  <a href="https://github.com/sheraztariq22?tab=followers">
-    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/sheraztariq22?color=236ad3&label=Followers&logo=github&logoColor=white&style=flat" />
-  </a>
-</p>
 
 </details>
 
