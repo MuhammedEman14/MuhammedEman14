@@ -5,14 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20DevOps%20Builder;Full-stack%20Developer%20at%20SAGE%20TECK;RAG%20%7C%20LangChain%20%7C%20Blockchain%20Expert!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://sheraztariq22.github.io/sheraztariq22/SherazTariqResume.pdf">
-    <img src="https://img.shields.io/badge/📄 Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://sheraztariq.com/">
-    <img src="https://img.shields.io/badge/🚀 Visit Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
 
 ---
 
@@ -129,7 +121,7 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 <details>
 <summary>💡 Quick Facts</summary>
 
-* 🚀 **1+ year** of professional Full-stack Development experience
+* 🚀 **2+ year** of professional Full-stack Development experience
 * 🎯 Built **enterprise CRM solutions** with high system availability
 * 🏆 Successfully **led multiple AI and DevOps projects**
 * 🧠 Expert in **RAG, LangChain, and LlamaIndex** implementations
