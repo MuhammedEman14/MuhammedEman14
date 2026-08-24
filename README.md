@@ -38,7 +38,6 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 ### 💼 Professional Experience
 
 **💻 SAGE TECK - Full Stack Developer** *(Nov 2025 - Present)*
-* Engineered and maintained **critical features** for enterprise CRM platforms **SugarCRM** and **SuiteCRM**
 * Ensured **robust performance** and **high system availability** for production systems
 * Focused on building **scalable backend logic** throughout the software development lifecycle
 * Modernized **deployment workflows** and improved development efficiency through **CI/CD**
@@ -51,7 +50,9 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 ### 🏅 Key Achievements
 
 * 🚀 **Successfully led multiple AI and DevOps projects** improving system efficiency
-* 💼 **Built scalable enterprise CRM solutions** ensuring high availability
+* 💼 **Conducted backend development utilizing AI tools integration** and deployed projects on AWS Lambda and
+      EC2.Worked on significant projects for clients from Earlibird AI, focusing on automation using Make.com,n8n
+      and GoHighLevel.
 * 🤖 **Expert in RAG workflow implementation** with LangChain and LlamaIndex
 * ⚡ **Modernized deployment workflows** with Docker, Kubernetes, and Jenkins
 * 🔧 **Proficient in CI/CD** implementation and integration testing
